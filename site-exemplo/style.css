@@ -1,0 +1,11 @@
+html, body{
+    padding: 0;
+    margin: 0;
+    font-family: 'Lato', Arial, Helvetica, sans-serif;
+    color: white;
+}
+.topbar{
+    background: linear-gradient(to right,#ff6b28 15%,black 65%) ;
+    text-align: center;
+    padding: 15px;
+}
