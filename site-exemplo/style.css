@@ -8,7 +8,18 @@ body{
     color: white;
 }
 .topbar{
-    background: linear-gradient(to right,#ff6b28 15%,black 65%) ;
+    background: linear-gradient(to right,#f05b16 15%,rgb(36, 36, 36) 65%) ;
     text-align: center;
     padding: 15px;
+}
+
+.icon-hub{
+    position: absolute;
+    left: 50px;
+    width: 40px;
+}
+.icon-git{
+    position: absolute;
+    right: 50px;
+    width: 40px;
 }
