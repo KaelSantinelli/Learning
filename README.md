@@ -3,4 +3,6 @@
 
 Repositório criado durante aula.
 
-Testando editor do GitHub.
+Testando editor do GitHub. Suas funcionalidades como **markdowm**.
+
+
